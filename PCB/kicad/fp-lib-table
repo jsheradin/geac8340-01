@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name kb)(type KiCad)(uri /home/jsheradin/Documents/geacPCB/keyboard_parts.pretty)(options "")(descr kb))
+  (lib (name teensy)(type KiCad)(uri /home/jsheradin/Documents/geacPCB/teensy.pretty)(options "")(descr teensy))
+)
